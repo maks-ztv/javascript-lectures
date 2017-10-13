@@ -612,3 +612,7 @@ function add({ x, y }) {
 
 add({ x: 1, y: 2});
 ```
+
+
+### Задача
+Необходимо выполнить [задачу](https://github.com/maks-ztv/javascript-tasks-3) и сделать пр
