@@ -362,6 +362,9 @@ sayHelloHabrahabr(); //alerts «Hello, Habrahabr»
 
 Замыкания позволяют реализовывать аналог приватных переменных, минимизировать выход переменных в глобальную область видимости. С другой стороны, неаккуратное использование замыканий может привести к побочным эффектам, описанным выше. Поэтому использовать их стоит крайне внимательно.
 
+### Задача
+Необходимо выполнить [задачу](https://github.com/maks-ztv/javascript-tasks-4) и сделать пр
+
 ### Ссылки на материал
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [learn.javascript.ru](https://learn.javascript.ru/closures)
