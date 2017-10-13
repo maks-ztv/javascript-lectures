@@ -1236,3 +1236,7 @@ http://jsfiddle.net/851kwgnv/1/
         event.preventDefault();
     }, false);
 ```
+
+
+### Задача
+Необходимо выполнить [задачу](https://github.com/maks-ztv/javascript-tasks-10) и сделать пр
