@@ -525,6 +525,9 @@ arr = new Array(2); // создаст массив [2] ?
 console.log( arr[0] ); // undefined! у нас массив без элементов, длины 2
 ```
 
+### Задача
+[Таск](https://github.com/maks-ztv/javascript-tasks-2)
+
 ### Источники
 * [Спецификация](http://www.ecma-international.org/publications/standards/Ecma-262.htm) -  это самый главный, определяющий документ, в котором написано, как себя ведёт JavaScript, браузер, CSS и т.п. и есть [перевод](http://es5.javascript.ru/ )
 * [learn.javascript.ru](http://learn.javascript.ru/ )
