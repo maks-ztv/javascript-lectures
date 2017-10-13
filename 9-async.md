@@ -313,6 +313,9 @@ setTimeout(a, 5000);
 
 Когда очищается и стек, и очередь, программа завершается.
 
+### Задача
+Необходимо выполнить [задачу](https://github.com/maks-ztv/javascript-tasks-9) и сделать пр
+
 ### Источники
 
 - [WHATWG Specification](https://html.spec.whatwg.org/multipage/webappapis.html#event-loops)
